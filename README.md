@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="100px"><img src="https://user-images.githubusercontent.com/103035621/170483040-a88d598b-145b-4903-accb-948ceff05811.png" alt="Team DOU"/></td>
-<td width="1000px"> <h2>MSKA: Spring + JPA + MYSQL + Maven  + Spring Security Ejercicio 4 UD27 </h2> </td>
+<td width="1000px"> <h2>MSKA: Spring + JPA + MYSQL + Maven  + Security Ejercicio 4 UD27 </h2> </td>
 
 </tr>
 </table>
