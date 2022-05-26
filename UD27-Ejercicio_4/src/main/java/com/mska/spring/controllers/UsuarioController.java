@@ -18,7 +18,6 @@ import com.mska.spring.dao.IUsuarioDAO;
 import com.mska.spring.dto.Usuario;
 
 
-
 @RestController
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST,RequestMethod.PUT,RequestMethod.DELETE})
 public class UsuarioController {
@@ -66,4 +65,5 @@ public class UsuarioController {
 		iUsuarioDAO.deleteById(id);
 		return "User deleted.";
 	}
+
 }
